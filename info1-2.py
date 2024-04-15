@@ -1,0 +1,11 @@
+nombre = input("Ingrese su nombre:")
+apellido = input("Ingrese su apellido:")
+carrera = input("Ingrese la carrera que estudia:")
+asignatura = input("Ingrese la asignatura:")
+sede = input("Ingrese la sede de Inacap:")
+semestre = input("Ingrese el semestre:")
+año_actual = input("Ingrese el año actual:")
+ciudad = input("Ingrese la ciudad:")
+edad = input("Ingrese su edad:")
+
+print(f"Información: {nombre}, {apellido}, {carrera}, {asignatura}, {sede}, {semestre}, {año_actual}, {ciudad}, {edad}")
